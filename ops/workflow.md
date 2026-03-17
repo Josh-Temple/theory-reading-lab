@@ -6,7 +6,8 @@
 - Keep one clear center of gravity per planned episode.
 
 ## 2) Collect sources
-- Add reusable books, primary texts, and secondary literature to `sources/bibliography.md`.
+- Build a selective theme shortlist in `themes/<theme>/sources.md` (what it is, why it matters, where it is useful, cautions).
+- Promote stable bibliographic entries to `sources/bibliography.md`.
 - Add web materials with annotations to `sources/url-index.md`.
 - Prefer high-signal sources over large undifferentiated lists.
 

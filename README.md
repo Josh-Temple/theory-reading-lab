@@ -25,10 +25,21 @@ Keep these layers separate: evidence first, interpretation second, script delive
 
 See `ops/workflow.md` for default operating details.
 
+## Repository structure (current)
+- `ops/`: workflow and writing standards.
+- `sources/`: reusable bibliography and annotated web index.
+- `themes/<theme>/`: theme-specific overview, sources, research notes, and episode drafts.
+- `prompts/`: reusable prompt scaffolds for drafting and revision.
+
+See `SERIES.md` for the cross-theme map and sequence intent.
+
 ## Planned themes
 - Structuralism
 - Phenomenology
 - Capital
+
+## Current priority theme
+`themes/structuralism/` is the active workflow test area and should be kept in the most usable state.
 
 ## How ChatGPT / Codex are used
 - Make small, legible Markdown edits.
