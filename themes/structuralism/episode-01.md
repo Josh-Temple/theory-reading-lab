@@ -1,11 +1,23 @@
 # Episode 01 — What Structuralism Tries to See
 
-When people first hear the word "structuralism," it can sound technical and distant. But the core intuition is simple: what we see on the surface often makes more sense when we understand the system underneath it.
+When people first hear the word "structuralism," it can sound technical and distant.
+Here is the basic idea: surface events make more sense when we identify the system of relations that organizes them.
 
-Structuralism asks us to shift attention. Instead of starting with isolated things, it starts with relations among things. A word means what it means not because it carries a private essence, but because it stands in contrast to other words. In that sense, meaning is produced by differences inside a system.
+So this episode starts with a shift in attention.
+Instead of isolated objects, structuralism asks us to examine relations among elements.
+A word means what it means not because it carries a private essence, but because it differs from other words in the same system.
 
-This shift matters beyond language. Think about customs, myths, or social roles. Structural analysis asks: what rules make these practices intelligible to the people who live them? Two stories may look different, yet share the same pattern of oppositions or transformations. Two social rituals may feel unique, yet rely on similar relational logic.
+This method matters beyond language.
+Take myths, customs, or social roles.
+The structural question is: what rules make these practices intelligible to participants?
+Two stories may look unrelated but share the same pattern of oppositions or transformations.
+Two rituals may feel unique but rely on similar relational logic.
 
-At this point, a caution is useful. Structuralism is not a claim that individuals do not matter. It is a method that says individual cases become clearer when we also see the larger organization that gives them form.
+A caution is important here.
+Structuralism does not say individuals are irrelevant.
+It says individual cases become clearer when we also map the organization that gives them form.
 
-So the first lesson is methodological. Structuralism tries to make hidden organization visible. It teaches us to look for relations, contrasts, and rule-governed patterns. In later episodes, we will test what this method can explain well—and where it reaches its limit.
+So the first lesson is methodological.
+Structuralism helps us make hidden organization visible.
+It trains us to look for relations, contrasts, and rule-governed patterns.
+In later episodes, we will test what this method explains well, and where it reaches its limits.

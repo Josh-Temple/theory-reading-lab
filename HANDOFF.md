@@ -1,32 +1,24 @@
 # HANDOFF
 
 ## Session summary
-This session revised repository governance documentation after feedback, with a stronger and more practical `AGENTS.md`, plus consistency updates in `README.md` and `ops/workflow.md`.
+This session revised structuralism source curation to match the requested practical starter set and tightened handoff continuity for the next editing pass.
 
 ## What changed in this session
-- Replaced `AGENTS.md` with a stronger operations-focused policy covering:
-  - repository purpose and boundaries
-  - clarity-over-accumulation principle
-  - strict separation of sources / notes / scripts
-  - selective preservation standards
-  - script quality constraints (teachability + conceptual precision)
-  - restructuring conditions and documentation update rules
-  - theme priority guidance for `themes/structuralism/`
-- Tightened `README.md` to align with the stronger policy and explicitly position the repo as a production workspace.
-- Updated `ops/workflow.md` so workflow steps match AGENTS expectations (high-signal sourcing, notes discipline, anti-noise preservation, script revision standards).
+- Replaced `themes/structuralism/sources.md` with a concrete, reusable source list centered on the requested startup mix:
+  - 8 core entries (2 overview + 4 figure/text anchors + 2 supporting teaching/theory resources)
+  - 2 optional support entries for anthropology and kinship deepening
+- Added explicit metadata for each source entry (`Title`, `Author`, `Type`, `URL`, `Why it matters`, `Episode relevance`, `Cautions`) so future AI/human passes can reuse sources without re-triage.
+- Added a minimal `Episode 01 extraction (first pass)` section to `themes/structuralism/research-notes.md` with 3 reusable thesis points for immediate script-revision use.
+
+## Why these changes were made
+- The previous source list was still too abstract for first-cycle operations.
+- The repository now has a practical and bounded starting corpus aligned with current workflow priority (`themes/structuralism/`).
+- The 3-point extraction keeps research notes reusable while avoiding expansion/noise.
 
 ## Structural decisions
-- No directory-level restructuring was introduced.
-- Changes were limited to documentation alignment and policy clarity.
-- Markdown remains the default format for all operational artifacts.
+- No new files or directories were created.
+- No renames were performed.
+- Changes were kept markdown-only and narrowly scoped.
 
-## Suggested next session tasks
-1. Apply the strengthened policy to `themes/structuralism/research-notes.md` by separating source-based claims vs interpretation.
-2. Revise `themes/structuralism/episode-01.md` with one pass focused on oral delivery (shorter sentence units + clearer transitions).
-3. Add 5-10 concrete bibliography entries in `sources/bibliography.md` for Structuralism first.
-4. Validate cross-file consistency: `README.md`, `AGENTS.md`, `ops/workflow.md`, and `ops/style-guide.md`.
-
-## Open questions
-- Should episode files include a lightweight metadata header (target duration, audience level, revision status)?
-- Is Structuralism officially locked as the first production track, or should priorities remain flexible?
-- Should we standardize a citation style now, or defer until bibliography entries are populated?
+## Suggested next session task (single best next task)
+Populate `sources/bibliography.md` with bibliographic records for the core 8 entries now listed in `themes/structuralism/sources.md`, then add one short cross-reference note under each relevant episode plan section.
