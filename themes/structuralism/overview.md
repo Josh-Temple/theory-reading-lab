@@ -13,7 +13,7 @@ Structuralism is a strong first test theme because it demonstrates how method ch
 
 ## Planned arc (initial)
 1. **Episode 01**: What Structuralism Tries to See
-2. Language, sign, and relational meaning
+2. **Episode 02**: Language, Sign, and Relational Meaning
 3. Myth and kinship as structured systems
 4. Critiques and transitions toward post-structural approaches
 
