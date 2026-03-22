@@ -1,24 +1,27 @@
 # HANDOFF
 
 ## Session summary
-This session revised structuralism source curation to match the requested practical starter set and tightened handoff continuity for the next editing pass.
+This session strengthened the reusable source layer by populating `sources/bibliography.md` for the current core structuralism set and adding one small cross-reference note in the theme source file.
 
 ## What changed in this session
-- Replaced `themes/structuralism/sources.md` with a concrete, reusable source list centered on the requested startup mix:
-  - 8 core entries (2 overview + 4 figure/text anchors + 2 supporting teaching/theory resources)
-  - 2 optional support entries for anthropology and kinship deepening
-- Added explicit metadata for each source entry (`Title`, `Author`, `Type`, `URL`, `Why it matters`, `Episode relevance`, `Cautions`) so future AI/human passes can reuse sources without re-triage.
-- Added a minimal `Episode 01 extraction (first pass)` section to `themes/structuralism/research-notes.md` with 3 reusable thesis points for immediate script-revision use.
+- Replaced the template content in `sources/bibliography.md` with concise reusable records for the current core structuralism source set.
+- Organized the bibliography into three sections: primary texts, reference / overview sources, and secondary / teaching-support sources.
+- Added stable metadata fields designed for future human or AI reuse: author, title, type, theme(s), why relevant, and notes / cautions, with publication year included only where it was confidently usable at this stage.
+- Added a short note in `themes/structuralism/sources.md` clarifying the division of labor between theme-level source curation and repository-level bibliography records.
 
 ## Why these changes were made
-- The previous source list was still too abstract for first-cycle operations.
-- The repository now has a practical and bounded starting corpus aligned with current workflow priority (`themes/structuralism/`).
-- The 3-point extraction keeps research notes reusable while avoiding expansion/noise.
+- The repository already had theme-specific source curation, but the reusable bibliography layer was still effectively a placeholder.
+- Filling `sources/bibliography.md` makes the repo's stated separation between bibliography, annotated URLs, and theme notes more real in practice.
+- This change reduces future source re-triage when drafting or revising later structuralism episodes.
 
 ## Structural decisions
-- No new files or directories were created.
-- No renames were performed.
-- Changes were kept markdown-only and narrowly scoped.
+- Kept changes markdown-only and limited to the bibliography, one theme cross-reference note, and handoff documentation.
+- Did not duplicate the full annotated URL layer inside the bibliography.
+- Kept entries concise and reusable rather than turning them into mini-essays.
+
+## Metadata uncertainties to revisit later
+- Publication years were included only when a stable year was already clear from the source's identity; article-level update years for encyclopedia and course pages were left out.
+- Formal edition and translation details for *Course in General Linguistics* should be verified before producing citation-ready references.
 
 ## Suggested next session task (single best next task)
-Populate `sources/bibliography.md` with bibliographic records for the core 8 entries now listed in `themes/structuralism/sources.md`, then add one short cross-reference note under each relevant episode plan section.
+Review `themes/structuralism/episode-01.md` and `themes/structuralism/episode-02.md` together, then make a small alignment pass so their openings, pacing, and transitions feel like parts of the same lecture series.

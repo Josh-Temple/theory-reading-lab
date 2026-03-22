@@ -102,4 +102,5 @@
 
 ## Notes
 - Keep this file selective for theme-level curation.
+- Use `sources/bibliography.md` for reusable source records and this file for theme-specific relevance, episode use, and cautions.
 - Track stable bibliographic records in `sources/bibliography.md`.
