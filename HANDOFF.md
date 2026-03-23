@@ -1,27 +1,24 @@
 # HANDOFF
 
 ## Session summary
-This session strengthened the reusable source layer by populating `sources/bibliography.md` for the current core structuralism set and adding one small cross-reference note in the theme source file.
+This session added `themes/structuralism/episode-03.md` as a usable first-pass lecture script that extends the series from Saussurean language analysis into Lévi-Strauss, myth, and kinship as structured systems.
 
 ## What changed in this session
-- Replaced the template content in `sources/bibliography.md` with concise reusable records for the current core structuralism source set.
-- Organized the bibliography into three sections: primary texts, reference / overview sources, and secondary / teaching-support sources.
-- Added stable metadata fields designed for future human or AI reuse: author, title, type, theme(s), why relevant, and notes / cautions, with publication year included only where it was confidently usable at this stage.
-- Added a short note in `themes/structuralism/sources.md` clarifying the division of labor between theme-level source curation and repository-level bibliography records.
+- Created `themes/structuralism/episode-03.md` with a full lecture draft built to follow Episode 02 directly.
+- Centered the episode on one main question: why structural analysis moves from language into culture by treating myth and kinship as systems of relations rather than isolated contents.
+- Used Lévi-Strauss as the main anchor while avoiding a broad history of anthropology or an overloaded treatment of kinship terminology.
+- Added a concrete myth comparison and a likely misunderstanding/correction so the script remains teachable aloud.
+- Ended the episode with a short bridge toward Barthes and everyday sign systems in Episode 04.
 
 ## Why these changes were made
-- The repository already had theme-specific source curation, but the reusable bibliography layer was still effectively a placeholder.
-- Filling `sources/bibliography.md` makes the repo's stated separation between bibliography, annotated URLs, and theme notes more real in practice.
-- This change reduces future source re-triage when drafting or revising later structuralism episodes.
+- The series needed a real third lecture so the structuralism theme would progress beyond method and language into a clear anthropological application.
+- A narrow focus on how culture can be read structurally keeps the episode coherent and prepares the later move from myths to everyday signs.
+- Keeping kinship at the level of patterned relations, prohibitions, and alliances makes the episode more usable for intelligent beginners.
 
 ## Structural decisions
-- Kept changes markdown-only and limited to the bibliography, one theme cross-reference note, and handoff documentation.
-- Did not duplicate the full annotated URL layer inside the bibliography.
-- Kept entries concise and reusable rather than turning them into mini-essays.
-
-## Metadata uncertainties to revisit later
-- Publication years were included only when a stable year was already clear from the source's identity; article-level update years for encyclopedia and course pages were left out.
-- Formal edition and translation details for *Course in General Linguistics* should be verified before producing citation-ready references.
+- Limited content changes to the new episode draft and handoff documentation.
+- Preserved the distinction between script writing and research/source files.
+- Kept the episode centered on structural method rather than turning it into a survey of anthropological debates.
 
 ## Suggested next session task (single best next task)
-Review `themes/structuralism/episode-01.md` and `themes/structuralism/episode-02.md` together, then make a small alignment pass so their openings, pacing, and transitions feel like parts of the same lecture series.
+Draft `themes/structuralism/episode-04.md` so it shows how Barthes carries structural analysis into everyday cultural signs while also preparing the transition toward structuralism's limits and later critiques.
