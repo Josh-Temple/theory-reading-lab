@@ -1,24 +1,24 @@
 # HANDOFF
 
 ## Session summary
-This session added `themes/structuralism/episode-03.md` as a usable first-pass lecture script that extends the series from Saussurean language analysis into Lévi-Strauss, myth, and kinship as structured systems.
+This session completed the first Structuralism test run by adding `themes/structuralism/episode-04.md` as a usable first-pass lecture script on Roland Barthes and everyday cultural signs.
 
 ## What changed in this session
-- Created `themes/structuralism/episode-03.md` with a full lecture draft built to follow Episode 02 directly.
-- Centered the episode on one main question: why structural analysis moves from language into culture by treating myth and kinship as systems of relations rather than isolated contents.
-- Used Lévi-Strauss as the main anchor while avoiding a broad history of anthropology or an overloaded treatment of kinship terminology.
-- Added a concrete myth comparison and a likely misunderstanding/correction so the script remains teachable aloud.
-- Ended the episode with a short bridge toward Barthes and everyday sign systems in Episode 04.
+- Created `themes/structuralism/episode-04.md` with a full lecture draft that follows Episode 03 directly.
+- Centered the episode on Barthes as the thinker who extends structural analysis from language and anthropology into ordinary modern cultural life.
+- Used one concrete modern example—a coffee advertisement on a phone screen—to show how objects and images function within broader signifying systems.
+- Included one likely misunderstanding and correction so the episode stays teachable for intelligent beginners.
+- Updated `themes/structuralism/overview.md` so the planned arc now reflects the completed first four-episode sequence.
 
 ## Why these changes were made
-- The series needed a real third lecture so the structuralism theme would progress beyond method and language into a clear anthropological application.
-- A narrow focus on how culture can be read structurally keeps the episode coherent and prepares the later move from myths to everyday signs.
-- Keeping kinship at the level of patterned relations, prohibitions, and alliances makes the episode more usable for intelligent beginners.
+- The public repository already positioned structuralism as the active workflow test area, and Episode 03 ended by pointing toward Barthes and everyday signs.
+- Completing Episode 04 makes the first structuralism sequence feel intentional and usable as a full test arc rather than a partial set of drafts.
+- Keeping the focus on Barthes and ordinary cultural signs preserves continuity with Episodes 01–03 without prematurely turning the series into a larger survey of critique or post-structuralism.
 
 ## Structural decisions
-- Limited content changes to the new episode draft and handoff documentation.
-- Preserved the distinction between script writing and research/source files.
-- Kept the episode centered on structural method rather than turning it into a survey of anthropological debates.
+- Limited supporting edits to one small overview update and this handoff refresh.
+- Kept source files and research notes untouched so the distinction between notes and scripts remains clean.
+- Treated Barthes as a genuine extension of structuralism rather than as a mere bridge to later theory.
 
 ## Suggested next session task (single best next task)
-Draft `themes/structuralism/episode-04.md` so it shows how Barthes carries structural analysis into everyday cultural signs while also preparing the transition toward structuralism's limits and later critiques.
+Lightly revise Episodes 01–04 for sequence-level consistency of openings, transitions, and closings now that the first structuralism arc is complete.

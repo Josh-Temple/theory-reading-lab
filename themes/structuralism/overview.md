@@ -11,11 +11,11 @@ Structuralism is a strong first test theme because it demonstrates how method ch
 - How does relational meaning work in language and culture?
 - Where are the strengths and limits of structural analysis?
 
-## Planned arc (initial)
+## Planned arc (current first-pass sequence)
 1. **Episode 01**: What Structuralism Tries to See
 2. **Episode 02**: Language, Sign, and Relational Meaning
-3. Myth and kinship as structured systems
-4. Critiques and transitions toward post-structural approaches
+3. **Episode 03**: Myth, Kinship, and Structured Systems
+4. **Episode 04**: Barthes and Everyday Signs
 
 ## Working cautions
 - Do not reduce structuralism to a single thinker.
