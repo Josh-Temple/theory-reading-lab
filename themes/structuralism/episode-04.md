@@ -72,7 +72,7 @@ The object itself is not enough to explain what it signifies.
 Its meaning emerges from the patterned differences around it.
 That is a very structuralist point.
 
-Barthes helps us notice that this is true far beyond advertising.
+The same reading habit applies far beyond advertising.
 Fashion works through contrasts and codes.
 A garment does not only cover a body.
 It can mark formality or informality, rebellion or conformity, luxury or practicality, youth or maturity.
@@ -109,21 +109,23 @@ He expands the range of the method.
 He shows that the analysis of signs is not limited to dictionaries, grammar, myths, or kinship diagrams.
 It can also illuminate the very ordinary world in which modern people move every day.
 
-At the same time, Barthes does introduce a pressure that later thinkers will push further.
-Once we see how easily everyday meanings present themselves as natural, it becomes harder to ignore questions of history, ideology, and power.
-That later development matters.
-But for this episode, the main point is simpler.
+At the same time, Barthes introduces a pressure that later thinkers will push further.
+Once we see how everyday meanings present themselves as natural, it becomes harder to ignore questions of history, ideology, and power.
+That later development matters, but for this episode, the main point is simpler.
 Barthes shows that structural analysis can descend from high theory into familiar life without losing seriousness.
 The method becomes more concrete, not less.
 
 So what have the first four episodes established?
-Episode 01 argued that structuralism asks us to see relations rather than isolated items.
-Episode 02 clarified that signs gain meaning differentially within a system.
-Episode 03 showed that this approach can illuminate myths and kinship as patterned cultural forms.
-And now Episode 04 has brought that same analytic habit into everyday modern culture.
-Language, myth, kinship, images, advertisements, fashion, and food all become readable in a new way once we ask how meaning is organized rather than merely displayed.
+Episode 01 set the method.
+Episode 02 made the linguistic model precise.
+Episode 03 extended the method to myth and kinship.
+Episode 04 applied it to everyday modern signs.
+That sequence is the key result: one analytic habit moving across different materials without changing its core question.
 
 That completes the first structuralism sequence.
 The lasting lesson is not that everything can be reduced to one formula.
 It is that social meaning often becomes visible only when we stop asking for isolated essences and start examining relations, codes, and structured differences.
 Barthes matters because he shows that this lesson applies not only to language and anthropology, but also to the ordinary signs through which modern life presents itself to us every day.
+
+From here, the best next step is not to add a new major topic immediately.
+It is to preserve this four-episode sequence as a coherent introductory model that later themes can reuse.

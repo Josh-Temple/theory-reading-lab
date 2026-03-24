@@ -17,6 +17,14 @@ Structuralism is a strong first test theme because it demonstrates how method ch
 3. **Episode 03**: Myth, Kinship, and Structured Systems
 4. **Episode 04**: Barthes and Everyday Signs
 
+## Sequence shape note (01–04)
+Each episode should remain aligned to one lecture shape:
+- opening orientation question
+- core explanation
+- concrete illustration
+- likely misunderstanding and correction
+- closing bridge to the next step (or series wrap in Episode 04)
+
 ## Working cautions
 - Do not reduce structuralism to a single thinker.
 - Distinguish methodological claims from historical applications.

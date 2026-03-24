@@ -18,7 +18,7 @@ In this approach, meaning is differential rather than intrinsic.
 That means a term has value because it is not other terms around it.
 Its role is defined by contrasts and relations within a language.
 
-This can sound abstract, so take a simple example.
+This can sound abstract, so take a simple concrete example.
 Think about the word "sheep."
 The sound itself does not naturally contain the animal.
 There is nothing inside those sounds that guarantees that meaning.
@@ -61,13 +61,11 @@ But once a language exists as a social system, its differences and conventions p
 Structuralism does not dissolve meaning.
 It explains how meaning is organized.
 
-A second misunderstanding is also worth correcting.
+One related clarification is useful before we close.
 Structural analysis is not a denial that language refers to the world.
 We obviously use words to talk about things.
-The structuralist point is narrower and more methodological.
-Reference alone does not explain meaning.
-Two terms can refer to nearby things and still differ because of the relations that organize them within a language.
-So if we want to understand how meaning works, looking outward to objects is not enough.
+The structuralist point is narrower and methodological: reference alone does not explain meaning.
+If we want to understand how meaning works, looking outward to objects is not enough.
 We also have to look sideways, at the system of differences among signs.
 
 This is where structuralism becomes more than a theory of vocabulary.
@@ -80,4 +78,4 @@ Meaning emerges from relations within a system.
 Saussure matters because he gives us a disciplined way to see that point.
 And once we see it in language, we can begin asking how far that structural way of seeing can travel.
 
-Next time, we will follow that question into myth and kinship, where structural analysis moves from language toward broader cultural forms.
+In the next episode, we will follow that question into myth and kinship, where structural analysis moves from language toward broader cultural forms.
