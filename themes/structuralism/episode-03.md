@@ -33,7 +33,7 @@ Life and death, nature and culture, raw and cooked, inside and outside.
 The specific terms may vary from one myth to another, but the structuralist wants to know whether the stories are working through related contrasts and trying to mediate tensions between them.
 What matters is not only the plot, but the arrangement of differences that gives the plot its force.
 
-A simple illustration can help.
+A concrete illustration can help.
 Imagine two stories from different settings.
 In one, a wild animal brings a skill into human life.
 In another, a clever human figure steals something valuable from a dangerous realm and makes ordinary social life possible.
@@ -67,12 +67,11 @@ The claim is not that every society says or does the same thing.
 The claim is that very different contents may still be organized through comparable relations, oppositions, or transformations.
 Structural analysis compares patterns without erasing the specificity of the material.
 
-Another caution is worth keeping in view.
-Lévi-Strauss is not simply saying that myths or kinship systems are languages in the literal sense.
-The methodological move is looser and more ambitious than that.
+One clarification is worth keeping in view.
+Lévi-Strauss is not saying that myths or kinship systems are languages in a literal sense.
 Language provided a model for thinking about relational organization.
-Anthropology then asks whether cultural forms can also be studied as systems whose elements gain significance from their place within a larger pattern.
-So the extension is real, but it is not just a mechanical copy from one field to another.
+Anthropology then asks whether cultural forms can be studied as systems whose elements gain significance from their place within a larger pattern.
+So the extension is real, but it is not a mechanical copy from one field to another.
 
 This is why Episode 03 matters in the overall arc of the series.
 By this point, structuralism is no longer only a theory of signs in language.

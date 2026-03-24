@@ -16,7 +16,7 @@ Structuralism tries to see organized patterns that are easy to miss when we look
 It looks for contrasts, positions, and rules.
 It assumes that what something means or how it functions often depends less on an inner essence than on its place within a larger arrangement.
 
-A simple example can make this clearer.
+A simple concrete example can make this clearer.
 Think about the pieces on a chessboard.
 A knight is not important because of the material it is made from.
 It could be wood, plastic, or stone and still count as the same piece.
